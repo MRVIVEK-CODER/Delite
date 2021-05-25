@@ -7,6 +7,11 @@
 <a href="https://instagram.com/hacker_solution_by_vivek"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram"></a> 
 
 
+
+
+
+
+
 # ♛✭ 𝙋𝙍𝙀𝙈𝙄𝙐𝙈 𝘾𝙍𝘼𝘾𝙆 ✭♛
 
 [✯] Crack 4 Method
