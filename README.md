@@ -1,59 +1,42 @@
-#  W E L C O M E <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<p align="center"><a href="https://github.com/MRVIVEK-CODER"><img src="https://j.top4top.io/p_1966skgw80.jpg" height='195' alt="VivekXD">
- 
-<p align="center">
-<a href="https://Facebook.com/Vivek.chandel.420"><img title="Facebook" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook"></a>
-<a href="https://wa.me/17087220306"><img title="whatsapp" src="https://img.shields.io/badge/Whatsapp-black?style=for-the-badge&logo=whatsapp"></a>
-<a href="https://instagram.com/hacker_solution_by_vivek"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram"></a> 
-
-
-
-
-
-
-
-# ♛✭ 𝙋𝙍𝙀𝙈𝙄𝙐𝙈 𝘾𝙍𝘼𝘾𝙆 ✭♛
-
-[✯] Crack 4 Method
-[✯] Login Token  
-[✯] Login Cookies  
-[✯] Token/Cookie Durable 
-[✯] Fast Dump  
-[✯] Fast Crack  
-[✯] More Listpass  
-## ✯⇨𝙄𝙣𝙨𝙩𝙖𝙡𝙡 𝙎𝙘𝙧𝙞𝙥𝙩 𝙊𝙣 𝙏𝙚𝙧𝙢𝙪𝙭⇦✯
-$ pkg update && upgrade  
-$ pkg install python2  
-$ pkg install git  
-$ pip2 install bs4  
-$ pip2 install requests  
-$ pip2 install mechanize  
-$ git clone https://github.com/MRVIVEK-CODER/Delite
-## ✯⇨𝙍𝙪𝙣 𝙎𝙘𝙧𝙞𝙥𝙩⇦✯
-$ cd Delite
-$ python2 Delite.py
-## ✯⇨𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚⇦✯
-1. Look for Target Accounts
-2. Dump ID 
-3. Dump ID Target
-4. Wait Until Dump Finish
-5. After Dump Dump, Then Exit the Output File
-6. Select Output File
-7. Press Back, Then Start Crack
-8. Enter the Output File Earlier
-## ✯⇨𝙎𝙘𝙧𝙚𝙚𝙣𝙨𝙝𝙤𝙩⇦✯
-<p align="center">
- <img src="https://github.com/MRVIVEK-CODER/Delite/blob/main/Screenshot_20210525-122242.jpg" width="640" title="Menu" alt="Menu">
- 
-## ¶ ****** ¶ ##
-
-<p align="center"> (̴͙̦̔̀͛P̴̞͇̝̀͛͝R̴̝̫͑͒͒O̸͔͓͐͊̚͜G̵͎̙͉̔͆͝R̴̢͙͇̐͝A̴̡̠̺͌͛͝Ḿ̸͇̘͉̒̓Ḿ̸͇̘͉̒̓É̸̡̫͇́͝R̴͓̝͙͒̾̾)̸̙̝̽͋̈́</p>
- 
-<p align="center">
- 𝐈𝐅 𝐘𝐎𝐔 𝐂𝐎𝐏𝐘, 𝐓𝐇𝐄𝐍 𝐆𝐈𝐕𝐄 𝐌𝐄 𝐓𝐇𝐄 𝐂𝐑𝐄𝐃𝐈𝐓𝐒 
-</p>
-𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://profile-counter.glitch.me/karma-kh3n/count.svg" />
-</p>
- 
- 
+IyAgVyBFIEwgQyBPIE0gRSA8aW1nIHNyYz0iaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQu
+Y29tL2lhbXBhdmFuZ2FuZGhpL2lhbXBhdmFuZ2FuZGhpL21hc3Rlci9naWZzL0hpLmdpZiIgd2lk
+dGg9IjMwcHgiPgo8cCBhbGlnbj0iY2VudGVyIj48YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20v
+TVJWSVZFSy1DT0RFUiI+PGltZyBzcmM9Imh0dHBzOi8vai50b3A0dG9wLmlvL3BfMTk2NnNrZ3c4
+MC5qcGciIGhlaWdodD0nMTk1JyBhbHQ9IlZpdmVrWEQiPgogCjxwIGFsaWduPSJjZW50ZXIiPgo8
+YSBocmVmPSJodHRwczovL0ZhY2Vib29rLmNvbS9WaXZlay5jaGFuZGVsLjQyMCI+PGltZyB0aXRs
+ZT0iRmFjZWJvb2siIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9GYWNlYm9vay1i
+bGFjaz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289RmFjZWJvb2siPjwvYT4KPGEgaHJlZj0iaHR0
+cHM6Ly93YS5tZS8xNzA4NzIyMDMwNiI+PGltZyB0aXRsZT0id2hhdHNhcHAiIHNyYz0iaHR0cHM6
+Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9XaGF0c2FwcC1ibGFjaz9zdHlsZT1mb3ItdGhlLWJhZGdl
+JmxvZ289d2hhdHNhcHAiPjwvYT4KPGEgaHJlZj0iaHR0cHM6Ly9pbnN0YWdyYW0uY29tL2hhY2tl
+cl9zb2x1dGlvbl9ieV92aXZlayI+PGltZyB0aXRsZT0iSW5zdGFncmFtIiBzcmM9Imh0dHBzOi8v
+aW1nLnNoaWVsZHMuaW8vYmFkZ2UvSU5TVEFHUkFNLWJsYWNrP3N0eWxlPWZvci10aGUtYmFkZ2Um
+bG9nbz1pbnN0YWdyYW0iPjwvYT4gCgoKCgoKCgojIOKZm+KcrSDwnZmL8J2ZjfCdmYDwnZmI8J2Z
+hPCdmZDwnZmIIPCdmL7wnZmN8J2YvPCdmL7wnZmGIOKcreKZmwoKW+Kcr10gQ3JhY2sgNCBNZXRo
+b2QKW+Kcr10gTG9naW4gVG9rZW4gIApb4pyvXSBMb2dpbiBDb29raWVzICAKW+Kcr10gVG9rZW4v
+Q29va2llIER1cmFibGUgClvinK9dIEZhc3QgRHVtcCAgClvinK9dIEZhc3QgQ3JhY2sgIApb4pyv
+XSBNb3JlIExpc3RwYXNzICAKIyMg4pyv4oeo8J2ZhPCdmaPwnZmo8J2ZqfCdmZbwnZmh8J2ZoSDw
+nZmO8J2ZmPCdmafwnZme8J2ZpfCdmakg8J2ZivCdmaMg8J2Zj/CdmZrwnZmn8J2ZovCdmarwnZmt
+4oem4pyvCiQgcGtnIHVwZGF0ZSAmJiB1cGdyYWRlICAKJCBwa2cgaW5zdGFsbCBweXRob24yICAK
+JCBwa2cgaW5zdGFsbCBnaXQgIAokIHBpcDIgaW5zdGFsbCBiczQgIAokIHBpcDIgaW5zdGFsbCBy
+ZXF1ZXN0cyAgCiQgcGlwMiBpbnN0YWxsIG1lY2hhbml6ZSAgCiQgZ2l0IGNsb25lIGh0dHBzOi8v
+Z2l0aHViLmNvbS9NUlZJVkVLLUNPREVSL0RlbGl0ZQojIyDinK/ih6jwnZmN8J2ZqvCdmaMg8J2Z
+jvCdmZjwnZmn8J2ZnvCdmaXwnZmp4oem4pyvCiQgY2QgRGVsaXRlCiQgcHl0aG9uMiBEZWxpdGUu
+cHkKIyMg4pyv4oeo8J2Zg/CdmaTwnZmsIPCdmY/wnZmkIPCdmZDwnZmo8J2ZmuKHpuKcrwoxLiBM
+b29rIGZvciBUYXJnZXQgQWNjb3VudHMKMi4gRHVtcCBJRCAKMy4gRHVtcCBJRCBUYXJnZXQKNC4g
+V2FpdCBVbnRpbCBEdW1wIEZpbmlzaAo1LiBBZnRlciBEdW1wIER1bXAsIFRoZW4gRXhpdCB0aGUg
+T3V0cHV0IEZpbGUKNi4gU2VsZWN0IE91dHB1dCBGaWxlCjcuIFByZXNzIEJhY2ssIFRoZW4gU3Rh
+cnQgQ3JhY2sKOC4gRW50ZXIgdGhlIE91dHB1dCBGaWxlIEVhcmxpZXIKIyMg4pyv4oeo8J2ZjvCd
+mZjwnZmn8J2ZmvCdmZrwnZmj8J2ZqPCdmZ3wnZmk8J2ZqeKHpuKcrwo8cCBhbGlnbj0iY2VudGVy
+Ij4KIDxpbWcgc3JjPSJodHRwczovL2dpdGh1Yi5jb20vTVJWSVZFSy1DT0RFUi9EZWxpdGUvYmxv
+Yi9tYWluL1NjcmVlbnNob3RfMjAyMTA1MjUtMTIyMjQyLmpwZyIgd2lkdGg9IjY0MCIgdGl0bGU9
+Ik1lbnUiIGFsdD0iTWVudSI+CiAKIyMgwrYgKioqKioqIMK2ICMjCgo8cCBhbGlnbj0iY2VudGVy
+Ij4gKMy0zJTNgM2bzZnMplDMtM2AzZvNncyezYfMnVLMtM2RzZLNksydzKtPzLjMms2QzYrNlM2T
+zZxHzLXMlM2dzYbNjsyZzYlSzLTNncyQzZnNh8yiQcy0zYzNnc2bzKDMusyhTcy4zYHMksyTzYfM
+mM2JTcy4zYHMksyTzYfMmM2JRcy4zYHNnc2BzKvNh8yhUsy0zZLMvsy+zZPMnc2ZKcy4zL3Ni82E
+zJnMnTwvcD4KIAo8cCBhbGlnbj0iY2VudGVyIj4KIPCdkIjwnZCFIPCdkJjwnZCO8J2QlCDwnZCC
+8J2QjvCdkI/wnZCYLCDwnZCT8J2Qh/CdkITwnZCNIPCdkIbwnZCI8J2QlfCdkIQg8J2QjPCdkIQg
+8J2Qk/CdkIfwnZCEIPCdkILwnZCR8J2QhPCdkIPwnZCI8J2Qk/CdkJIgCjwvcD4K8J2ahfCdmbjw
+nZqC8J2ZuPCdmoPwnZm+8J2agfCdmoIg8J2ZsvCdmb7wnZqE8J2ZvfCdmoMKIDxpbWcgc3JjPSJo
+dHRwczovL3Byb2ZpbGUtY291bnRlci5nbGl0Y2gubWUva2FybWEta2gzbi9jb3VudC5zdmciIC8+
+CjwvcD4KIAogCg==
