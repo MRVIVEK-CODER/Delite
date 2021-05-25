@@ -42,8 +42,10 @@ $ python2 Delite.py
 7. Press Back, Then Start Crack
 8. Enter the Output File Earlier
 ## ✯⇨𝙎𝙘𝙧𝙚𝙚𝙣𝙨𝙝𝙤𝙩⇦✯
-
-
+<p align="center">
+ <img src="https://github.com/MRVIVEK-CODER/Delite/blob/main/Screenshot_20210525-122242.jpg" width="640" title="Menu" alt="Menu">
+ 
+## ¶ ****** ¶ ##
 
 <p align="center"> (̴͙̦̔̀͛P̴̞͇̝̀͛͝R̴̝̫͑͒͒O̸͔͓͐͊̚͜G̵͎̙͉̔͆͝R̴̢͙͇̐͝A̴̡̠̺͌͛͝Ḿ̸͇̘͉̒̓Ḿ̸͇̘͉̒̓É̸̡̫͇́͝R̴͓̝͙͒̾̾)̸̙̝̽͋̈́</p>
  
