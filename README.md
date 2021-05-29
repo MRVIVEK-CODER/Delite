@@ -55,5 +55,11 @@ $ python2 Delite.py
 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
  <img src="https://profile-counter.glitch.me/karma-kh3n/count.svg" />
 </p>
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="MRVIVEK-CODER's GitHub Stats" src="https://mrvivek-coder-vivek-chandel.vercel.app//api?username=vivek-chandel&show_icons=true&hide_border=true" />
  
  
