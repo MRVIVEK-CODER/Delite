@@ -60,4 +60,4 @@ $ python2 Delite.py
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![MRVIVEK-CODER's GitHub stats](https://mrvivek-coder-vivek-chandel.vercel.app//api?username=MRVIVEK-CODER&show_icons=true&theme=radical)
+![MRVIVEK-CODER's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivek-chandel&show_icons=true&theme=radical)
